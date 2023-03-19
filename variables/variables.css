@@ -1,9 +1,11 @@
 ul {
   font-size: 14px;
-  color: red; }
+  color: rgb(167, 192, 1);
+}
 
 ol {
   font-size: 18px;
-  color: red; }
+  color: rgb(167, 192, 1);
+}
 
 /*# sourceMappingURL=variables.css.map */
